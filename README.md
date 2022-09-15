@@ -6,13 +6,12 @@
 
 2) Creare le credenziali per accedere al repository open sky dal seguente sitoweb: https://opensky-network.org/index.php
 
-
 3) Inserire le credenziali fornite dal sito OpenSky per poter accedere ai dati nel seguente file nella sezione OpenSky: traffic.conf
    il file è reperibile nel percorso dove è stata installata la libreria Traffic
 
 3) Una volta inserite le credenziali e salvato il file, tornare sul terminale.
 
-4) digita "conda activate traffic" per attivare la librerira
+4) Digita "conda activate traffic" per attivare la librerira
 
-5) digita "jupyther notebook" per avviare il notebook
+5) Digita "jupyther notebook" per avviare il notebook
 
